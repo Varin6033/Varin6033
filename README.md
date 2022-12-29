@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Varin6033
 - 👀 I’m interested in ... problem solving
 - 🌱 I’m currently learning ... Python, Algorithms
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... varin6033@gmail.com
 
 <!---
